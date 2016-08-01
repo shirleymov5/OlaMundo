@@ -1,0 +1,9 @@
+<resources>
+    <string name="Pizzaria_app"></string>
+    <string name="Pedido_inc">Inclua no seu pedido</string>
+    <string name="Pizza_grande">Grande:</string>
+    <string name="Pizza_pequena">Pequena:</string>
+    <string name="Pizza_doces">Doces</string>
+    <string name="Pizza_salgadas">Salgadas</string>
+    <string name="Pizza_ambas">Ambas</string>
+</resources>
